@@ -1,0 +1,6 @@
+{
+  "name": "Al-Huda (الهُدَى)",
+  "description": "Comprehensive Islamic Application with Quran Kareem, AlAdhan Prayer Times, Qibla Compass, and Islamic History Timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

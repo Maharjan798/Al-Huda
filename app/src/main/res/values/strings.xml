@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Al-Huda</string>
+    <string name="widget_name">Prayer Countdown Widget</string>
+    <string name="widget_description">Displays the next upcoming prayer time and countdown timer.</string>
+</resources>
